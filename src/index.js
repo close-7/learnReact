@@ -1,3 +1,3 @@
-import './code1/7.components.js';
+import './code1/10.counter.js';
 
 
