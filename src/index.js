@@ -1,3 +1,3 @@
-import './code2/6.lifeCycle';
+import './code1/4.jsx.js';
 
 
